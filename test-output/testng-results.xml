@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17032" started-at="2019-05-26T19:50:07Z" finished-at="2019-05-26T19:50:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17032" started-at="2019-05-26T19:50:07Z" finished-at="2019-05-26T19:50:24Z">
+      <class name="JavaFramework.snapdealScenarioTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JavaFramework.snapdealScenarioTest@35bbe5e8]" name="setup" is-config="true" duration-ms="8489" started-at="2019-05-27T01:20:07Z" finished-at="2019-05-27T01:20:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testPriceSlider()[pri:0, instance:JavaFramework.snapdealScenarioTest@35bbe5e8]" name="testPriceSlider" duration-ms="6399" started-at="2019-05-27T01:20:15Z" finished-at="2019-05-27T01:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPriceSlider -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:JavaFramework.snapdealScenarioTest@35bbe5e8]" name="tearDown" is-config="true" duration-ms="2117" started-at="2019-05-27T01:20:22Z" finished-at="2019-05-27T01:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- JavaFramework.snapdealScenarioTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
