@@ -8,9 +8,8 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
-
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -58,13 +57,15 @@ public class BrowserFactory {
 	
 	
 	public void getScreenshot(String result){
-		
+		System.out.println("Inside Screenshot");
 		File src = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		String target_dir = System.getProperty("user.dir")+"\\failureScreenshots\\"+result+"\\Screenshot.png";
 		try {
-			FileUtils.moveFile(src, new File("C:\\Users\\Anuj Goel\\Desktop\\"+result+"\\Screenshot.png"));
+			FileUtils.moveFile(src, new File(target_dir));
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			System.out.println("ERROR Screnshot"+ e);
 		}
+		log.info("Test Failed. Refer screenshot : "+target_dir);
 	} 
 }

@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="38890" started-at="2019-06-01T10:42:49Z" finished-at="2019-06-01T10:43:28Z">
+  <suite name="Suite" duration-ms="11891" started-at="2020-05-16T15:15:45Z" finished-at="2020-05-16T15:15:57Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="38890" started-at="2019-06-01T10:42:49Z" finished-at="2019-06-01T10:43:28Z">
-      <class name="JavaFramework.snapdealScenarioTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:JavaFramework.snapdealScenarioTest@6276ae34]" name="setup" is-config="true" duration-ms="28262" started-at="2019-06-01T16:12:49Z" finished-at="2019-06-01T16:13:18Z">
+    <test name="Test" duration-ms="11891" started-at="2020-05-16T15:15:45Z" finished-at="2020-05-16T15:15:57Z">
+      <class name="JavaFramework.ExcelDataTest.ExcelDataTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:JavaFramework.ExcelDataTest.ExcelDataTest@515c6049]" name="setup" is-config="true" duration-ms="7031" started-at="2020-05-16T20:45:45Z" finished-at="2020-05-16T20:45:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="testPriceSlider()[pri:0, instance:JavaFramework.snapdealScenarioTest@6276ae34]" name="testPriceSlider" duration-ms="9500" started-at="2019-06-01T16:13:18Z" finished-at="2019-06-01T16:13:28Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:JavaFramework.ExcelDataTest.ExcelDataTest@515c6049]" name="testLogin" duration-ms="763" started-at="2020-05-16T20:45:52Z" finished-at="2020-05-16T20:45:53Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPriceSlider -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:JavaFramework.snapdealScenarioTest@6276ae34]" name="tearDown" is-config="true" duration-ms="633" started-at="2019-06-01T16:13:28Z" finished-at="2019-06-01T16:13:28Z">
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:JavaFramework.ExcelDataTest.ExcelDataTest@515c6049]" name="tearDown" is-config="true" duration-ms="4074" started-at="2020-05-16T20:45:53Z" finished-at="2020-05-16T20:45:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- JavaFramework.snapdealScenarioTest -->
+      </class> <!-- JavaFramework.ExcelDataTest.ExcelDataTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -1,5 +1,6 @@
-C:\eclipse\workspace\MyFramework\MyFramework\src\main\java\pageObjects\snapdealHomePage.java
-C:\eclipse\workspace\MyFramework\MyFramework\src\main\java\pageObjects\SnapdealSearchPage.java
-C:\eclipse\workspace\MyFramework\MyFramework\src\main\java\pageObjects\EventListner.java
-C:\eclipse\workspace\MyFramework\MyFramework\src\main\java\resources\ExtentReporterNG.java
-C:\eclipse\workspace\MyFramework\MyFramework\src\main\java\resources\BrowserFactory.java
+D:\Java-Framework\src\main\java\pageObjects\UsefulTools\ExcelWork.java
+D:\Java-Framework\src\main\java\pageObjects\EventListner.java
+D:\Java-Framework\src\main\java\pageObjects\SnapdealObjects\SnapdealSearchPage.java
+D:\Java-Framework\src\main\java\pageObjects\SnapdealObjects\snapdealHomePage.java
+D:\Java-Framework\src\main\java\resources\ExtentReporterNG.java
+D:\Java-Framework\src\main\java\resources\BrowserFactory.java

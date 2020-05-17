@@ -1,0 +1,5 @@
+20:23:24.232 [main] INFO  resources.BrowserFactory - Test Success [TestResult name=testLogin status=SUCCESS method=ExcelDataTest.testLogin()[pri:0, instance:JavaFramework.ExcelDataTest.ExcelDataTest@515c6049] output={null}]
+20:23:28.353 [main] INFO  resources.BrowserFactory - Flow Finished org.testng.TestRunner@2d1ef81a
+20:45:45.310 [main] INFO  resources.BrowserFactory - FLow Started org.testng.TestRunner@2d1ef81a
+20:45:51.283 [main] INFO  resources.BrowserFactory - Opened Insta Login page
+20:45:52.354 [main] INFO  resources.BrowserFactory - Test Started [TestResult name=testLogin status=STARTED method=ExcelDataTest.testLogin()[pri:0, instance:JavaFramework.ExcelDataTest.ExcelDataTest@515c6049] output={null}]

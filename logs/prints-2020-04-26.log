@@ -1,0 +1,4 @@
+16:33:02.910 [main] INFO  resources.BrowserFactory - Flow Finished org.testng.TestRunner@557caf28
+16:35:40.338 [main] INFO  resources.BrowserFactory - FLow Started org.testng.TestRunner@557caf28
+16:35:50.902 [main] INFO  resources.BrowserFactory - Opened homepage
+16:35:50.924 [main] INFO  resources.BrowserFactory - Test Started [TestResult name=testPriceSlider status=STARTED method=snapdealScenarioTest.testPriceSlider()[pri:0, instance:JavaFramework.SnapdealTests.snapdealScenarioTest@235834f2] output={null}]

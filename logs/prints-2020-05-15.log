@@ -1,0 +1,4 @@
+04:31:05.054 [main] DEBUG resources.BrowserFactory - Searched the product
+04:31:09.155 [main] INFO  resources.BrowserFactory - Test Success [TestResult name=testPriceSlider status=SUCCESS method=snapdealScenarioTest.testPriceSlider()[pri:0, instance:JavaFramework.SnapdealTests.snapdealScenarioTest@34123d65] output={null}]
+04:31:13.324 [main] INFO  resources.BrowserFactory - Flow Finished org.testng.TestRunner@34e9fd99
+04:31:47.845 [main] INFO  resources.BrowserFactory - FLow Started org.testng.TestRunner@36ebc363
